@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @S0han
 - 👀 I’m interested in web dev features and mobile applicaitons
 - 🌱 I’m currently learning flutter/express/JS
-- 💞️ I’m looking to collaborate on Mobile Applications
+- 💞️ I’m looking to collaborate on Web/Mobile Applications
 - 📫 How to reach me kane.pereira18@gmail.com
 
 <!---
