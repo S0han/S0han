@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @S0han
-- 👀 I’m interested in web dev features and mobile applicaitons
-- 🌱 I’m currently working flutter/nodejs/expressjs/JS/reactjs/HTML/CSS/C++/Python
+- 👀 I’m interested in Back-End Development and Web Applications
+- 🌱 I’m currently working Nodejs/Expressjs/JS/Reactjs/HTML/CSS/C++/Python
 - 💞️ I’m looking to collaborate on Web/Mobile Applications
 - 📫 How to reach me kane.pereira18@gmail.com
 
