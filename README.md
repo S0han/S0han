@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @S0han
+- 👋 Hi, I’m Kane Pereira
 - 👀 I’m interested in Back-End Development and Web Applications
 - 🌱 I’m currently working Nodejs/Expressjs/JS/Reactjs/HTML/CSS/C++/Python
 - 💞️ I’m looking to collaborate on Web/Mobile Applications
