@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kane Pereira
 - 👀 I’m interested in Back-End Development and Web Applications
 - 🌱 I’m currently working Nodejs/Expressjs/JS/Reactjs/HTML/CSS/C++/Python
-- 💞️ I’m looking to collaborate on Web/Mobile Applications
+- 💞️ I’m looking to collaborate on Web Applications
 - 📫 How to reach me kane.pereira18@gmail.com
 
 <!---
