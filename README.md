@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kane Pereira
 - 👀 I’m interested in Fullstack, Web and Embedded Systems Development
-- 🌱 I’m currently working Node/Express/JS/React/HTML/CSS/C++/Python/PSQL/Prisma
-- 💞️ I’m looking to collaborate on Web Applications
+- 🌱 Well versed with Nodejs/Expressjs/JS/Reactjs/Nextjs/HTML/CSS/C++/Python/PSQL/Prisma/Flutter/Dart
+- 💞️ I’m looking to collaborate on Web and Mobile Applications
 - 📫 How to reach me kane.pereira18@gmail.com
 
 <!---
