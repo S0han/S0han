@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kane Pereira
-- 👀 I’m interested in Fullstack, Web and Embedded Systems Development
+- 👀 I’m interested in Fullstack, Mobile and Embedded Systems Development
 
 - 🌱 Well versed with Nodejs/Expressjs/JS/Reactjs/Nextjs/HTML/CSS/C++/Python/PSQL/Prisma/Flutter/Dart
 - 💞️ I’m looking to collaborate on Web and Mobile Applications
