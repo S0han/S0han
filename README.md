@@ -2,7 +2,7 @@
 - 👀 I’m interested in Fullstack, Mobile and Embedded Systems Development
 
 - 🌱 Well versed with Nodejs/Expressjs/JS/Reactjs/Nextjs/HTML/CSS/C++/Python/PSQL/Prisma/Flutter/Dart
-- 💞️ I’m looking to collaborate on Web and Mobile Applications
+- 💞️ I’m looking to collaborate on Web, Mobile and IoT Applications
 
 - 📫 Email: kane.pereira18@gmail.com
 - 🌟 LinkedIn: https://www.linkedin.com/in/kane-pereira-a0a72b168/
