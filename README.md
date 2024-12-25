@@ -5,7 +5,7 @@
 
 ---
 
-👋 Welcome my esteemed guest!  
+👋 WECOME, TO MY CODE SPACE!  
 
 💻 I’m Kane Pereira, a self-taught Fullstack Software Developer with 2+ years of experience building web and mobile applications.  
 
@@ -29,8 +29,8 @@ I’ve contributed to startups, open-source projects, and various industries, bu
 ## 📊 Stats  
 
 ### **Languages**  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=s0han&layout=compact&theme=radical)  
 
 ### **GitHub Stats**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=s0han&show_icons=true&theme=radical)  
 
