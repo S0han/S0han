@@ -7,9 +7,9 @@
 
 👋 WECOME, TO MY CODE SPACE!  
 
-💻 I’m Kane Pereira, a self-taught Fullstack Software Developer with 2+ years of experience building web and mobile applications.  
+💻 I’m **Kane Pereira**, a **Self-taught Fullstack Software Developer** with **2+ years** of experience building Web, Mobile and IoT applications.  
 
-🔭 My background in Electrical Engineering has honed my problem-solving skills and enhanced my ability to understand and improve complex systems.  
+🔭 My background in **Electrical Engineering** has honed my problem-solving skills and enhanced my ability to understand and improve complex systems.  
 
 ⚡ When I’m not coding, I enjoy kickboxing, running, and weightlifting.  
 
@@ -22,7 +22,7 @@
 ---
 
 ## Summary  
-I’ve contributed to startups, open-source projects, and various industries, building high-quality scalable products and services.  
+I’ve contributed to **startups**, **open-source** projects, and various industries, building high-quality scalable products and services.  
 
 ---
 
@@ -82,5 +82,3 @@ With a background in Electrical Engineering and diverse experience across multip
 - Agile Methodologies (Scrum/Kanban), Cross-functional Team Collaboration, Stakeholder Management  
 - Strong experience working with globally dispersed teams  
 - Proficient in tools for project tracking and issue resolution (Jira, Confluence)
-
-
