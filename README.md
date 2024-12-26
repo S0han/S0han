@@ -7,7 +7,7 @@
 
 👋 WECOME, TO MY CODE SPACE!  
 
-💻 I’m **Kane Pereira**, a **Self-taught Fullstack Software Developer** with **2+ years** of experience building Web, Mobile and IoT applications.  
+💻 I’m **Kane Pereira**, a self-taught **Fullstack Software Developer** with **2+ years** of experience building Web, Mobile and IoT applications.  
 
 🔭 My background in **Electrical Engineering** has honed my problem-solving skills and enhanced my ability to understand and improve complex systems.  
 
