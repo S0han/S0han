@@ -31,7 +31,9 @@ I’ve contributed to startups, open-source projects, and various industries, bu
 ### **Languages**  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=s0han&layout=pie&theme=radical&hide=langs&count_private=true&show_icons=true)
 
-### **GitHub Stats**  
+### **GitHub Stats** 
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=s0han&theme=radical&row=1&column=6&margin-w=15&margin-h=15&no-frame=true)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=s0han&show_icons=true&theme=radical)
 
 ---
