@@ -13,7 +13,7 @@
 
 ⚡ When I’m not coding, I enjoy kickboxing, running, and weightlifting.  
 
-🌱 Currently learning: Advanced React Patterns, GraphQL, and Kubernetes.  
+🌱 Currently learning: Advanced React Patterns, GraphQL, and Web Integrations.  
 
 ---
 
