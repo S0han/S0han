@@ -66,7 +66,7 @@ I’ve contributed to **startups**, **open-source** projects, and various indust
 
 ## Other Skills
 
-With a background in Electrical Engineering and diverse experience across multiple industries, I bring a unique combination of technical and problem-solving skills to software development and system design. I’m driven to apply these abilities in delivering high-quality products and scalable solutions.
+With a background in **Electrical Engineering** and diverse experience across multiple industries, I bring a unique combination of technical and problem-solving skills to software development and system design. I’m driven to apply these abilities in delivering high-quality products and scalable solutions.
 
 ### **Technical Skills & Expertise**  
 - **System Design & Architecture**: Electrical Systems, Wiring Diagrams, PCB Design, Modbus, CAN, RS-232, Ethernet, BACNet, M-Bus, I2C, TCP/IP  
