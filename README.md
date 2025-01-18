@@ -1,4 +1,4 @@
-# Electrifying user experiences with Passion and Innovation ⚡️
+# ⚡️ Electrifying user experiences with Passion and Innovation ⚡️
 [![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=for-the-badge&logo=web&logoColor=white)](https://www.thekaneologist.com/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kane-pereira-a0a72b168/)
 [![Contact](https://img.shields.io/badge/-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kane.pereira18@gmail.com)
