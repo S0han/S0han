@@ -11,7 +11,7 @@
 
 🔭 My background in **Electrical Engineering** has honed my problem-solving skills and enhanced my ability to understand and improve complex systems.  
 
-⚡ When I’m not coding, I enjoy kickboxing, running, weightlifting and spending time with loved ones.  
+⚡ When I’m not coding... I enjoy kickboxing, running, weightlifting and spending time with loved ones.  
 
 🌱 Currently learning: TDD and Web Integrations.  
 
