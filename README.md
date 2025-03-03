@@ -13,7 +13,7 @@
 
 ⚡ When I’m not coding... I enjoy kickboxing, running, weightlifting and spending time with loved ones.  
 
-🌱 Currently learning: AI / LLMs and Web Integrations.  
+🌱 Currently learning: AI / LLMs, Web Integrations and TDD.  
 
 ---
 
