@@ -60,6 +60,8 @@ I’ve contributed to 3+ **startups**, **open-source** projects, and various ind
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=sql&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
 ### **Database**
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
@@ -77,11 +79,9 @@ With a background in **Electrical Engineering** and diverse experience across mu
 
 ### **Technical Skills & Expertise**  
 - **System Design & Architecture**: Electrical Systems, Wiring Diagrams, PCB Design, Modbus, CAN, RS-232, Ethernet, BACNet, M-Bus, I2C, TCP/IP  
-- **Development & Programming**: C/C++, Python, JavaScript, HTML, CSS, MatLab, Go, TailwindCSS, Flutter, React.js, Next.js  
 - **Testing & Troubleshooting**: Unit Testing, Integration Testing, Regression Testing, R&D, Quality Assurance, Postman, Splunk, TightVNC, Virtual Machines  
 - **Version Control & Tools**: GitHub, Jira, Confluence, TeamCity, Figma, VSCode, AutoCAD, OrCAD, Multisim  
 - **Communication Protocols & Hardware**: PLC Programming, Wireless Networking, Metering, Omron, Allen Bradley, Siemens, Mitsubishi VFD, Arduino, Raspberry Pi  
-- **Cloud & Databases**: PostgreSQL, Firebase, Prisma ORM, MySQL  
 
 ### **Project Management & Collaboration**  
 - Agile Methodologies (Scrum/Kanban), Cross-functional Team Collaboration, Stakeholder Management  
