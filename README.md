@@ -26,13 +26,28 @@ I’ve contributed to 3+ **startups**, **open-source** projects, and various ind
 
 ---
 
-## 📊 Stats  
+## 📊 GitHub Stats
 
-### **Languages**  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=s0han&layout=pie&theme=radical&hide=langs&count_private=true&show_icons=true)
+### GitHub Statistics
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=s0han&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
+  <img height="170" src="https://streak-stats.demolab.com?user=s0han&theme=radical" />
+</p>
 
-### **GitHub Stats** 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=s0han&theme=radical&row=1&column=6&margin-w=15&margin-h=15&no-frame=true)
+### Most Used Languages
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s0han&layout=compact&theme=radical&langs_count=8" />
+</p>
+
+### Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=s0han&theme=github-dark&hide_border=true" />
+</p>
+
+### GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=s0han&theme=radical&row=2&column=4&margin-w=15&margin-h=15&no-frame=true" />
+</p>
 
 ---
 
@@ -93,15 +108,35 @@ I’ve contributed to 3+ **startups**, **open-source** projects, and various ind
 
 ## Other Skills
 
-With a background in **Electrical Engineering** and diverse experience across multiple industries, I bring a unique combination of technical and problem-solving skills to software development and system design. I’m driven to apply these abilities in delivering high-quality products and scalable solutions.
+With a background in **Electrical Engineering** and **7 years of software engineering experience**, I bring a systems-thinking approach to designing scalable applications, backend services, integrations, and connected hardware/software solutions.
 
-### **Technical Skills & Expertise**  
-- **System Design & Architecture**: Electrical Systems, Wiring Diagrams, PCB Design, Modbus, CAN, RS-232, Ethernet, BACNet, M-Bus, I2C, TCP/IP  
-- **Testing & Troubleshooting**: Unit Testing, Integration Testing, Regression Testing, R&D, Quality Assurance, Postman, Splunk, TightVNC, Virtual Machines  
-- **Version Control & Tools**: GitHub, Jira, Confluence, TeamCity, Figma, VSCode, AutoCAD, OrCAD, Multisim  
-- **Communication Protocols & Hardware**: PLC Programming, Wireless Networking, Metering, Omron, Allen Bradley, Siemens, Mitsubishi VFD, Arduino, Raspberry Pi  
+### **Software Architecture & Engineering**
+- System Design, Software Architecture, API Design, Microservices, Event-Driven Systems, Distributed Systems
+- Performance Optimization, Secure Authentication (OAuth2, PKCE, JWT, HttpOnly Cookies), Real-Time Synchronization
+- Multi-tier Applications, Backend Services, ERP Systems, Integration Architecture
 
-### **Project Management & Collaboration**  
-- Agile Methodologies (Scrum/Kanban), Cross-functional Team Collaboration, Stakeholder Management  
-- Strong experience working with globally dispersed teams  
-- Proficient in tools for project tracking and issue resolution (Jira, Confluence)
+### **Testing & Quality**
+- Unit Testing, Integration Testing, Regression Testing, End-to-End Testing
+- Test Automation, API Testing (Postman), Debugging, Root Cause Analysis
+- Quality Assurance, Performance Optimization, Production Support
+
+### **Cloud, DevOps & Developer Tools**
+- Git, GitHub, Docker, Linux, Bash
+- CI/CD, Composer, npm
+- Jira, Confluence, VS Code, DBeaver, Figma
+
+### **Systems Engineering & Hardware**
+- PLC Programming, Industrial Automation
+- CAN, Modbus, RS-232, Ethernet, TCP/IP, BACnet, M-Bus, I²C
+- Zebra Printers, Omron, Allen-Bradley, Siemens PLCs
+- Arduino, Raspberry Pi
+- AutoCAD, OrCAD, Multisim
+
+### **Leadership & Collaboration**
+- Agile (Scrum / Kanban)
+- Technical Leadership & Mentoring
+- Cross-functional Collaboration
+- Stakeholder Management
+- Requirements Gathering & Solution Design
+- SOP & Technical Documentation
+- Experience collaborating with engineering, product, and design teams across **4 continents**
