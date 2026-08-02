@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-Full-Stack Software Engineer • Systems Architect • Electrical Engineer
+Full-Stack Software Developer • Systems Architect • Electrical Engineering
 </p>
 
 ---
