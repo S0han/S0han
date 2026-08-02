@@ -7,7 +7,7 @@
 
 👋 WECOME, TO MY MAGE ARENA!  
 
-🧙🏽‍♂️ I’m **Kane Pereira**, a self-taught **Fullstack Software Developer** with **3+ years** of experience building Web, Mobile & IoT applications.  
+🧙🏽‍♂️ I’m **Kane Pereira**, a self-taught **Fullstack Software Developer** with **7+ years** of experience building Web, Mobile & IoT applications.  
 
 🔭 My background in **Electrical Engineering** has honed my problem-solving skills and enhanced my ability to understand and improve complex systems.  
 
