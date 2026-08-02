@@ -1,20 +1,30 @@
-# 🔥 Architecting Intelligent Systems ⚡
+<h1 align="center">🔥 Architecting Intelligent Systems ⚡</h1>
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=for-the-badge&logo=web&logoColor=white)](https://www.thekaneologist.com/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kane-pereira-a0a72b168/)
-[![Contact](https://img.shields.io/badge/-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kane.pereira18@gmail.com)
+<p align="center">
+  <a href="https://www.thekaneologist.com">
+    <img src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/kane-pereira-a0a72b168">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:kane.pereira18@gmail.com">
+    <img src="https://img.shields.io/badge/Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+Full-Stack Software Engineer • Systems Architect • Electrical Engineer
+</p>
 
 ---
 
-# 👋 Welcome!
+# 👋 Welcome
 
-I'm **Kane Pereira**, a **Full-Stack Software Engineer** with **7+ years** of experience building scalable web applications, backend systems, APIs, mobile applications, automation tools, and hardware/software integrations.
+I'm **Kane Pereira**, a **Full-Stack Software Engineer** with **7+ years** of experience building scalable web applications, backend systems, APIs, mobile applications, automation platforms, and hardware/software integrations.
 
-My background in **Electrical Engineering** gives me a systems-first approach to software architecture, automation, and solving complex engineering problems. I enjoy building reliable products that bridge software with real-world systems.
+My background in **Electrical Engineering** gives me a systems-first approach to software architecture, automation, and solving complex engineering problems.
 
-🌱 **Currently Exploring:** AI / LLMs • Software Architecture • Distributed Systems • Cloud Engineering
-
----
+**Currently Exploring:** AI / LLMs • Software Architecture • Distributed Systems • Cloud Engineering
 
 # 🛠 Tech Stack
 
@@ -33,8 +43,6 @@ My background in **Electrical Engineering** gives me a systems-first approach to
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white)
 ![JsViews](https://img.shields.io/badge/-JsViews-1E90FF?style=flat&logo=jsviews&logoColor=white)
 
----
-
 ## Backend
 
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
@@ -46,8 +54,6 @@ My background in **Electrical Engineering** gives me a systems-first approach to
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
----
-
 ## Databases
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
@@ -58,16 +64,12 @@ My background in **Electrical Engineering** gives me a systems-first approach to
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/-DBeaver-382923?style=flat&logo=dbeaver&logoColor=white)
 
----
-
 ## Cloud & DevOps
 
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=FF9900)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-
----
 
 ## APIs & Authentication
 
@@ -77,8 +79,6 @@ My background in **Electrical Engineering** gives me a systems-first approach to
 ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
 ![Laravel Sanctum](https://img.shields.io/badge/-Sanctum-FF2D20?style=flat&logo=laravel&logoColor=white)
 
----
-
 ## Testing & Tools
 
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
@@ -86,31 +86,29 @@ My background in **Electrical Engineering** gives me a systems-first approach to
 ![npm](https://img.shields.io/badge/-npm-CB3837?style=flat&logo=npm&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 
----
-
 # 📊 GitHub Stats
 
-### GitHub Statistics
+## GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=s0han&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
-  <img height="170" src="https://streak-stats.demolab.com?user=s0han&theme=radical" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=s0han&show_icons=true&theme=radical&count_private=true&include_all_commits=true"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=s0han&theme=radical"/>
 </p>
 
-### Most Used Languages
+## Most Used Languages
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s0han&layout=compact&theme=radical&langs_count=8" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s0han&layout=compact&theme=radical&langs_count=8"/>
 </p>
 
-### Contribution Graph
+## Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=s0han&theme=github-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=s0han&theme=github-dark&hide_border=true"/>
 </p>
 
-### GitHub Trophies
+## GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=s0han&theme=radical&row=2&column=4&margin-w=15&margin-h=15&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=s0han&theme=radical&row=2&column=4&margin-w=15&margin-h=15&no-frame=true"/>
 </p>
