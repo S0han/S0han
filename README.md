@@ -1,4 +1,4 @@
-# ⚡ Electrify User Experience ⚡
+# 🔥 Architect User Experience ⚡
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=for-the-badge&logo=web&logoColor=white)](https://www.thekaneologist.com/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kane-pereira-a0a72b168/)
