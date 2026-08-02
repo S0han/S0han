@@ -1,60 +1,25 @@
-# ⚡️ Electrify User Experience ⚡️
+# ⚡ Electrify User Experience ⚡
+
 [![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=for-the-badge&logo=web&logoColor=white)](https://www.thekaneologist.com/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kane-pereira-a0a72b168/)
 [![Contact](https://img.shields.io/badge/-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kane.pereira18@gmail.com)
 
 ---
 
-👋 WECOME, TO MY MAGE ARENA!  
+# 👋 Welcome!
 
-🧙🏽‍♂️ I’m **Kane Pereira**, a self-taught **Fullstack Software Developer** with **7+ years** of experience building Web, Mobile & IoT applications.  
+I'm **Kane Pereira**, a **Full-Stack Software Engineer** with **7+ years** of experience building scalable web applications, backend systems, APIs, mobile applications, automation tools, and hardware/software integrations.
 
-🔭 My background in **Electrical Engineering** has honed my problem-solving skills and enhanced my ability to understand and improve complex systems.  
+My background in **Electrical Engineering** gives me a systems-first approach to software architecture, automation, and solving complex engineering problems. I enjoy building reliable products that bridge software with real-world systems.
 
-⚡ When I’m not coding... I enjoy kickboxing, running, weightlifting and spending time with loved ones.  
-
-🌱 Currently Exploring: AI / LLMs, Web Integrations, IoT.  
+🌱 **Currently Exploring:** AI / LLMs • Software Architecture • Distributed Systems • Cloud Engineering
 
 ---
 
-### I’m passionate about crafting seamless Web, Mobile and IoT applications to solve real-world challenges and elevate user experiences.  
+# 🛠 Tech Stack
 
----
+## Frontend
 
-## Summary  
-I’ve contributed to 3+ **startups**, **open-source** projects, and various industries, building high-quality scalable products and services.  
-
----
-
-## 📊 GitHub Stats
-
-### GitHub Statistics
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=s0han&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
-  <img height="170" src="https://streak-stats.demolab.com?user=s0han&theme=radical" />
-</p>
-
-### Most Used Languages
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s0han&layout=compact&theme=radical&langs_count=8" />
-</p>
-
-### Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=s0han&theme=github-dark&hide_border=true" />
-</p>
-
-### GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=s0han&theme=radical&row=2&column=4&margin-w=15&margin-h=15&no-frame=true" />
-</p>
-
----
-
-
-## Tech Stack
-
-### Frontend
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
@@ -68,7 +33,10 @@ I’ve contributed to 3+ **startups**, **open-source** projects, and various ind
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white)
 ![JsViews](https://img.shields.io/badge/-JsViews-1E90FF?style=flat&logo=jsviews&logoColor=white)
 
-### Backend
+---
+
+## Backend
+
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
@@ -78,7 +46,10 @@ I’ve contributed to 3+ **startups**, **open-source** projects, and various ind
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
-### Databases
+---
+
+## Databases
+
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
@@ -87,56 +58,59 @@ I’ve contributed to 3+ **startups**, **open-source** projects, and various ind
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/-DBeaver-382923?style=flat&logo=dbeaver&logoColor=white)
 
-### Cloud & DevOps
+---
+
+## Cloud & DevOps
+
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=FF9900)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
-### APIs & Authentication
+---
+
+## APIs & Authentication
+
 ![REST API](https://img.shields.io/badge/-REST%20API-009688?style=flat)
 ![WebSockets](https://img.shields.io/badge/-WebSockets-010101?style=flat)
 ![OAuth 2.0](https://img.shields.io/badge/-OAuth%202.0-3C99DC?style=flat)
 ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
 ![Laravel Sanctum](https://img.shields.io/badge/-Sanctum-FF2D20?style=flat&logo=laravel&logoColor=white)
 
-### Testing & Tools
+---
+
+## Testing & Tools
+
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Composer](https://img.shields.io/badge/-Composer-885630?style=flat&logo=composer&logoColor=white)
 ![npm](https://img.shields.io/badge/-npm-CB3837?style=flat&logo=npm&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 
-## Other Skills
+---
 
-With a background in **Electrical Engineering** and **7 years of software engineering experience**, I bring a systems-thinking approach to designing scalable applications, backend services, integrations, and connected hardware/software solutions.
+# 📊 GitHub Stats
 
-### **Software Architecture & Engineering**
-- System Design, Software Architecture, API Design, Microservices, Event-Driven Systems, Distributed Systems
-- Performance Optimization, Secure Authentication (OAuth2, PKCE, JWT, HttpOnly Cookies), Real-Time Synchronization
-- Multi-tier Applications, Backend Services, ERP Systems, Integration Architecture
+### GitHub Statistics
 
-### **Testing & Quality**
-- Unit Testing, Integration Testing, Regression Testing, End-to-End Testing
-- Test Automation, API Testing (Postman), Debugging, Root Cause Analysis
-- Quality Assurance, Performance Optimization, Production Support
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=s0han&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
+  <img height="170" src="https://streak-stats.demolab.com?user=s0han&theme=radical" />
+</p>
 
-### **Cloud, DevOps & Developer Tools**
-- Git, GitHub, Docker, Linux, Bash
-- CI/CD, Composer, npm
-- Jira, Confluence, VS Code, DBeaver, Figma
+### Most Used Languages
 
-### **Systems Engineering & Hardware**
-- PLC Programming, Industrial Automation
-- CAN, Modbus, RS-232, Ethernet, TCP/IP, BACnet, M-Bus, I²C
-- Zebra Printers, Omron, Allen-Bradley, Siemens PLCs
-- Arduino, Raspberry Pi
-- AutoCAD, OrCAD, Multisim
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s0han&layout=compact&theme=radical&langs_count=8" />
+</p>
 
-### **Leadership & Collaboration**
-- Agile (Scrum / Kanban)
-- Technical Leadership & Mentoring
-- Cross-functional Collaboration
-- Stakeholder Management
-- Requirements Gathering & Solution Design
-- SOP & Technical Documentation
-- Experience collaborating with engineering, product, and design teams across **4 continents**
+### Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=s0han&theme=github-dark&hide_border=true" />
+</p>
+
+### GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=s0han&theme=radical&row=2&column=4&margin-w=15&margin-h=15&no-frame=true" />
+</p>
